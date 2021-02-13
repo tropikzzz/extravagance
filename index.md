@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Extravagance 0.4 (alpha) Update
+```
+**New Commands**
+New commands have been added such as ?say, ?serverinfo, ?myavi, ?myinfo, and ?info
 
-You can use the [editor on GitHub](https://github.com/tropikzzz/extravagance/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+**Rebranding**
+The bot name has been rebranded from Toga to Extravagance, commands such as ?toga, ?togagif, ?tcredit have either been deleted entirely or replaced and any mention of toga is now replaced with extravagance
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Command Replacements**
+?tcredit has been replaced with ?credit, ?ask has now been replaced by ?rate, and ?toga, ?togagif, and ?help togagif have all been removed with the rebranding of Toga to Extravagance! 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+**Upcoming Changes and 2021 Roadmap**
+Kick, Ban and Purge commands are on the way in the upcoming year! 0.5, 0.6, and 0.7 are planned to release in 2021 and have a basic feature roadmap coming within the months! We appreciate your support and thanks for making Extravagance great!
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Extravagance Rundown
+Extravagance is an upcoming all access discord bot coded in Node.js by tropikzzz
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tropikzzz/extravagance/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Extravagance is currently in Alpha but if you want to keep updated then you can join the [pit o' extravaganza discord server](https://discord.gg/RmXMKPXQCA) to keep updated.
